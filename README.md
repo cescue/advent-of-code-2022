@@ -13,5 +13,5 @@ A rubular celebration of the season.
   - [Part Two: Cheating Correctly](scripts/2b.rb)
 
 * Day 3 - Rucksack Reorganization
-  - [Part One: Item Prioritization](scripts/2a.rb)
-  - [Part Two: Badge Reposession](scripts/2b.rb)
+  - [Part One: Item Prioritization](scripts/3a.rb)
+  - [Part Two: Badge Reposession](scripts/3b.rb)
