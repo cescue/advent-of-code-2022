@@ -2,6 +2,10 @@
 
 A rubular celebration of the season.
 
+## Interested in Participating?
+
+Check out the Advent of Code [Website](https://adventofcode.com/).
+
 ## Table of Contents
 
 * Day 1 - Calorie Counting
