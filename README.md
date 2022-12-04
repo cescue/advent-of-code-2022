@@ -19,3 +19,7 @@ Check out the Advent of Code [Website](https://adventofcode.com/).
 * Day 3 - Rucksack Reorganization
   - [Part One: Item Prioritization](scripts/3a.rb)
   - [Part Two: Badge Reposession](scripts/3b.rb)
+
+* Day 4 - Camp Cleanup
+  - [Part One: Redundant Cleanup Sites](scripts/4a.rb)
+  - [Part Two: Janitorial Inneficiency](scripts/4b.rb)
