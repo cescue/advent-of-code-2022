@@ -22,4 +22,4 @@ Check out the Advent of Code [Website](https://adventofcode.com/).
 
 * Day 4 - Camp Cleanup
   - [Part One: Redundant Cleanup Sites](scripts/4a.rb)
-  - [Part Two: Janitorial Inneficiency](scripts/4b.rb)
+  - [Part Two: Janitorial Inefficiency](scripts/4b.rb)
