@@ -24,6 +24,10 @@ Check out the Advent of Code [Website](https://adventofcode.com/).
   - [Part One: Redundant Cleanup Sites](scripts/4a.rb)
   - [Part Two: Janitorial Inefficiency](scripts/4b.rb)
 
-* Day 4 - Supply Stacks
+* Day 5 - Supply Stacks
   - [Part One: Push n' Pop](scripts/5a.rb)
   - [Part Two: Advanced Stacking Protocols](scripts/5b.rb)
+
+* Day 6 - Tuning Trouble
+  - [Part One: The Elven Walkie Talkie](scripts/6a.rb)
+  - [Part Two: Marking Messages](scripts/6b.rb)
