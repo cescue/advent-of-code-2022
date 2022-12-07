@@ -34,4 +34,4 @@ Check out the Advent of Code [Website](https://adventofcode.com/).
 
 * Day 7 - No Space Left On Device
   - [Part One: Tiny Directories](scripts/7a.rb)
-  - [Part Two: The Largest Smallest File](scripts/7b.rb)
+  - [Part Two: The Smallest Largest Directory](scripts/7b.rb)
