@@ -31,3 +31,7 @@ Check out the Advent of Code [Website](https://adventofcode.com/).
 * Day 6 - Tuning Trouble
   - [Part One: The Elven Walkie Talkie](scripts/6a.rb)
   - [Part Two: Marking Messages](scripts/6b.rb)
+
+* Day 7 - No Space Left On Device
+  - [Part One: Tiny Directories](scripts/7a.rb)
+  - [Part Two: The Largest Smallest File](scripts/7b.rb)
