@@ -35,3 +35,7 @@ Check out the Advent of Code [Website](https://adventofcode.com/).
 * Day 7 - No Space Left On Device
   - [Part One: Tiny Directories](scripts/7a.rb)
   - [Part Two: The Largest Smallest File](scripts/7b.rb)
+
+* Day 8 - Treetop Treehouse
+  - [Part One: Missing the Forest For The Trees](scripts/8a.rb)
+  - [Part Two: A View To A Tree](scripts/8b.rb)
