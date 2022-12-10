@@ -37,6 +37,9 @@ Check out the Advent of Code [Website](https://adventofcode.com/).
   - [Part Two: The Smallest Largest Directory](scripts/7b.rb)
 
 * Day 8 - Treetop Treehouse
-  - [Part One: Missing the Forest For The Trees](scripts/8a.rb)
+  - [Part One: Missing The Forest For The Trees](scripts/8a.rb)
   - [Part Two: A View To A Tree](scripts/8b.rb)
 
+* Day 9 - Rope Bridge
+  - [Part One: Thinkin' About A Rope](scripts/9a.rb)
+  - [Part Two: The Same Thing, But More Ropes' ](scripts/9b.rb)
