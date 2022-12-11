@@ -43,3 +43,7 @@ Check out the Advent of Code [Website](https://adventofcode.com/).
 * Day 9 - Rope Bridge
   - [Part One: Thinkin' About A Rope](scripts/9a.rb)
   - [Part Two: The Same Thing, But More Ropes' ](scripts/9b.rb)
+  
+* Day 10 - Cathode-Ray Tube
+  - [Part One: Not Quite MIPS](scripts/10a.rb)
+  - [Part Two: Not Quite Vulkan](scripts/10b.rb)
