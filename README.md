@@ -51,3 +51,7 @@ Check out the Advent of Code [Website](https://adventofcode.com/).
 * Day 11 - Monkey in the Middle
   - [Part One: A Barrel of Monkeys](scripts/11a.rb)
   - [Part Two: Anxiety Management](scripts/11b.rb)
+
+* Day 12 - Hill Climbing Algorithm
+  - [Part One: It's Mostly Downhill From Here](scripts/12a.rb)
+  - [Part Two: The Djikstran Reverse Card](scripts/12b.rb)
