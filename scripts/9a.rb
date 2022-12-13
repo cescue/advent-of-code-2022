@@ -92,7 +92,6 @@ end
 rope = Rope.new(2, 0, 0)
 
 File.foreach('9_input.txt') do |line|
-
   direction, distance = line.chomp.split(' ')
 
   rope.pull(direction, distance.to_i)
