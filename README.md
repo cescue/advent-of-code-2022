@@ -55,3 +55,7 @@ Check out the Advent of Code [Website](https://adventofcode.com/).
 * Day 12 - Hill Climbing Algorithm
   - [Part One: It's Mostly Downhill From Here](scripts/12a.rb)
   - [Part Two: The Djikstran Reverse Card](scripts/12b.rb)
+
+* Day 13 - Distress Signal
+  - [Part One: Packet Disorder](scripts/13a.rb)
+  - [Part Two: Partitioned Pairs of Presorted Packets](scripts/13b.rb)
